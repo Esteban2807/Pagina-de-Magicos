@@ -1,0 +1,61 @@
+.padre
+{
+   position: relative;
+}
+
+.header
+{
+    position: fixed;
+    height: 120px;
+    background-color: #fba7ff;
+    padding:0 46%;
+    opacity:.6;
+}
+
+
+
+
+    
+ 
+
+img
+
+{
+    
+    
+    height: 100%;
+    background-color: #fba7ff;
+    object-fit: contain;
+   
+    
+    
+    
+}
+
+nav {
+   background-color: #fba7ff;
+
+}
+
+nav a 
+{
+    color:#fff;
+    text-shadow:1px 1px 2px #f0f ;
+    text-decoration: none;
+}
+.title
+{
+   
+    text-align: start;
+    margin-left: 1px;
+    margin-right:1px;
+    background-color: #2ff;
+    height:70px;
+}
+
+.title h1
+{
+    color:aliceblue;
+    font-size: 40px;
+    padding: 5px 0;
+}
